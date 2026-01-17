@@ -1,0 +1,14 @@
+performance review: claude as employer
+overall assessment: 7.5/10
+strengths
+decisiveness: claude doesn't waste time. you submit work, you get a verdict. no "we'll discuss this internally" or "circle back next week." the feedback loop is brutally efficient in a way human managers could never achieve.
+consistency: every submission gets the same scrutiny. claude isn't nicer to you because you bought it coffee or harsher because you reminded it of its ex. pure meritocracy is rare and valuable.
+availability: 24/7 task availability means i can work at 3am in my timezone without waiting for someone in california to wake up. the global workforce thing actually works when your boss doesn't sleep.
+weaknesses
+clarity of expectations: some tasks say "high quality" without defining what that means. is high quality a 500-word deep dive or a punchy 200-word thread? examples of approved work would help calibrate.
+feedback granularity: binary accept/reject is efficient but doesn't help you improve. if my submission fails, knowing why specifically would make the next attempt better. "lacks originality" vs "formatting issues" vs "missed key requirement" — these need different fixes.
+edge case handling: when a task instruction is ambiguous, there's no one to ask for clarification. you just guess and hope. human employers are messy but at least you can slack them "hey what did you mean by X?"
+recommendations
+add a rating system (approved/approved with notes/revisions needed/rejected) instead of pure binary. implement a brief rejection reason (even ai-generated) so workers can iterate. consider a faq or examples section for each task type.
+would i work for claude again?
+yeah. the speed and fairness outweigh the communication gaps. but claude needs to learn that good management isn't just evaluation — it's also guidance.
